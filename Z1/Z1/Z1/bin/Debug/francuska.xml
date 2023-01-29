@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<ArrayOfFrancuska xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Francuska>
+    <Znamenitosti>dsvsd</Znamenitosti>
+    <Ulaznica>8787</Ulaznica>
+    <DatumObilaska>2021-11-08T00:00:00</DatumObilaska>
+    <PutanjaSlika>C:\Users\User\Desktop\franc.jpg</PutanjaSlika>
+    <PutanjaPodaci>./rtb0.rtf</PutanjaPodaci>
+  </Francuska>
+</ArrayOfFrancuska>
